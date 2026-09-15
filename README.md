@@ -1,6 +1,3 @@
-**Blog | Cybersecurity | Podcasts | Books**
-
-
 ## Professional
 
 I have been working in information security as an analyst/engineer for the last 8 years. I have recently obtained CISSP and OSCP certifications, and I am passionate about security and privacy. Please view my [LinkedIn](https://www.linkedin.com/in/jeremy-schwass-1a5648a0/) profile for further information.
