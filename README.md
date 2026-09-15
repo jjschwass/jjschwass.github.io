@@ -14,7 +14,7 @@ I occasionally post my thoughts and photos on the following platforms:
 
 ## Escaping The Algorithm
 
-Internet media platforms such as Facebook, Instagram, YouTube, Reddit, and X have ceased being places you go to interact and connect with people you know and view content you care about. They are now places you go to have algorithmically generated feeds of "suggested" content shoved in front of you while you desperately try to hunt for that thing your family member posted which you accidentally clicked away from and may never find again. I have thrown in the towel and now frequent the Fediverse and individual websites instead.
+Internet media platforms such as Facebook, Instagram, YouTube, Reddit, and X have ceased being places you go to interact and connect with people you know and view content you care about. They are now places you go to have algorithmically generated feeds of "suggested" content shoved in front of you while you desperately try to hunt for that important post you accidentally clicked away from and may never find again. I have thrown in the towel and now frequent the Fediverse and individual websites instead.
 
 Here are my recommendations: 
 
