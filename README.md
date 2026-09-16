@@ -16,6 +16,6 @@ Internet media platforms such as Facebook, Instagram, YouTube, Reddit, and X hav
 Here are my recommendations: 
 
 - [Join the Fediverse](https://jointhefediverse.net/learn/?lang=en-us) - Learn about the Fediverse and its various platforms and services.
-- [Cloudhiker](cloudhiker.net) - Choose your interests and discover new websites related to those interests. 
-- [personalsit.es](personalsit.es) - A collection of 1100+ personal websites. Browse by category or click "Go to a random site"
+- [Cloudhiker](cloudhiker.net) - Discover new websites based on your interests. 
+- [personalsit.es](personalsit.es) - A collection of 1100+ personal websites. Browse by category or click "Go to a random site.
 - [IndieWeb](https://indieweb.org/) - A community of independent and personal websites based on the principles of: owning your domain and using it as your primary online identity, publishing on your own site first (optionally elsewhere), and owning your content. 
